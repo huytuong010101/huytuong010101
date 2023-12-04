@@ -2,11 +2,11 @@
 
 Mình là Nguyễn Huy Tưởng. Hiện là sinh viên K-19 [ĐH Bách Khoa - Đại học Đà Nẳng](http://dut.udn.vn/) 💼
 
-Mình đang là thực tập sinh mảng Computer Vision tại [Ftech AI](https://ftech.ai/) 💻
+Mình đang là NLP Engineer tại [Paradox](https://paradox.ai/) 💻
 
 Đam mê của mình là cố gắng thực hiện đam mê 💖
 
-Đây là CV của mình [Nguyen Huy Tuong](https://nguyenhuytuong.tech/)
+Đây là CV của mình [Nguyen Huy Tuong](https://nguyenhuytuong.me/)
 ## Đây là một số thứ có trên github của mình 😎
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huytuong010101&layout=compact)](#)
 ## Đây là vài cái thống kê gì đấy trên github 😋
